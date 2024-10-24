@@ -1,6 +1,8 @@
 # Progetto-ISS-2022-2023
 
-UNIPA - Corso di laurea triennale in Informatica (2086) - Ingegneria del software A.A 2022/2023 - Prof.ssa Rombo
+UNIPA - Corso di laurea triennale in Informatica (2086)
+
+Ingegneria e Sicurezza del Software A.A 2022/2023 - Prof.ssa Rombo
 
 Traccia: progettazione di un gioco di ruolo
 
